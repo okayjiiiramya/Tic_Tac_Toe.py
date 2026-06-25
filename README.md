@@ -29,11 +29,6 @@ Player 2 uses O
 Players take turns choosing positions on the board.
 The first player to align three symbols horizontally, vertically, or diagonally wins.
 If all positions are filled and no player wins, the game ends in a draw.
-📸 Sample Output
- X | O | X
------------
- O | X | O
------------
- X |   |
+
 
 Player X Wins!
